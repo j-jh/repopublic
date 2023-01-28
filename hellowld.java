@@ -1,0 +1,9 @@
+package hellowlrd;
+
+public class hellowld {
+
+	public static void main(String[] args) {
+		System.out.println("hello world");
+	}
+
+}
